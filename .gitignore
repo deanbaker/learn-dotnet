@@ -1,0 +1,5 @@
+.vs/
+MvcMovie/App_Data/
+MvcMovie/bin/
+MvcMovie/obj/
+packages/
